@@ -139,7 +139,7 @@ const Home = () => {
   return (
     <Container>
         <PortFolio>
-          <Poster src="https://cdna.lystit.com/cms/ENG_header_desktop_bddf9b3474_884ff704d3.jpg" alt="poster"/>
+          <Poster src="https://cdna.lystit.com/cms/YIF_Banner_XL_Desktop_76bdba2aa5.jpg" alt="poster"/>
           <Poster1 src="https://cdna.lystit.com/cms/ENG_header_desktop_bddf9b3474_884ff704d3.jpg" alt="desktop-poster" />
           <Poster2 src="https://cdna.lystit.com/cms/ENG_header_tablet_test_40933dc911.jpg" alt="tablet-poster"/>
           <Poster3 src="https://cdna.lystit.com/cms/ENG_header_mobile_test_a391a0431f.jpg" alt="mobile-poster"/>

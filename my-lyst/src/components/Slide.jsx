@@ -90,7 +90,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>CRISP MONOCHROME</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/Image_from_i_OS_570_8c4ba5ce61.png" alt='CRISP MONOCHROME'/>
+           <Image src="https://cdna.lystit.com/cms/D322_B0_BC_BC_75_4_E5_B_9858_1_C26_E30_EC_7_DE_5706927b9d.png" alt='CRISP MONOCHROME'/>
         </Item>
       </Link>
       <Link to="#">
@@ -98,7 +98,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>ONE STEP AHEAD</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/OSA_24_03_22_09a1fa2732.jpeg" alt='ONE STEP AHEAD'/>
+           <Image src="https://cdna.lystit.com/cms/3c3d3937_f1dd_427c_ae5f_8a9cbb0788ee_45b3b02667.png" alt='ONE STEP AHEAD'/>
         </Item>
       </Link>
       <Link to="#">
@@ -106,7 +106,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>REFINED GLAMOUR</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/REFINED_GLAMOUR_c966d97813.jpeg" alt='REFINED GLAMOUR'/>
+           <Image src="https://cdna.lystit.com/cms/e26b4a3a_f41f_4211_9d06_3f313c694247_1295b99158.png" alt='REFINED GLAMOUR'/>
         </Item>
       </Link>
       <Link to="#">
@@ -114,7 +114,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>NEW CLASSICS</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/NEW_CLASSICS_f5f19784b9.jpeg" alt='NEW CLASSICS'/>
+           <Image src="https://cdna.lystit.com/cms/2ef642f2_4104_43b7_8717_e2cd74581b19_4c6570163e.png" alt='NEW CLASSICS'/>
         </Item>
       </Link>
       <Link to="#">
@@ -122,7 +122,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>30 UNDER 300</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/17537008_38224404_800_7b2d22a8aa.png" alt='30 UNDER 300'/>
+           <Image src="https://cdna.lystit.com/cms/0d04b456_fa24_42aa_9d35_c7008854e970_e4c36405b2.png" alt='30 UNDER 300'/>
         </Item>
       </Link>
     </Slider>
@@ -132,7 +132,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>ITALIST: SHOP DESIGNER BRANDS & SAVE UP TO 70%<sup>*</sup></Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/JPG_SS_22_RTW_TOP_THE_ATTICO_PANTS_DOLCE_and_GABBANA_BAG_PRADA_WOMAN_1_8a2611b9e1.jpg" alt='ITALIST'/>
+           <Image src="https://cdna.lystit.com/cms/Top_Lyst5th_U_Sand_IT_600x600_s_594ad2e245.jpg" alt='ITALIST'/>
         </Item>
       </Link>
       <Link to="#">
@@ -140,7 +140,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>DISCOVER THE ICONIC MYEA BAG - EMPORIO ARMANI</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/EA_My_EA_Bags_HP_Top_Lyst_3ab19a30d3.jpg" alt="MYEA BAG"/>
+           <Image src="https://cdna.lystit.com/cms/EA_7_Gift_Finder_4f3e2522b6.jpg" alt="MYEA BAG"/>
         </Item>
       </Link>
       <Link to="#">
@@ -148,7 +148,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>MICHAEL KORS: YOUR FAVORITE STYLES ARE WAITING AND ON SALE </Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/LINA_BAG_ASSET_600x600_01800ffbe1.jpg" alt='MICHAEL KORS'/>
+           <Image src="https://cdna.lystit.com/cms/HP_Top_Lyst_Banner_600x600_6bb8c2a582.jpg" alt='MICHAEL KORS'/>
         </Item>
       </Link>
       <Link to="#">
@@ -156,7 +156,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>THE MULBERRY SOFTIE - A BAG MADE TO BE SQUEEZED</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/Screenshot_2022_03_08_at_14_40_26_4809776918.png" alt='MULBERRY SOFTIE'/>
+           <Image src="https://cdna.lystit.com/cms/LYST_600x600_2_1_43b30fb898.jpg" alt='MULBERRY SOFTIE'/>
         </Item>
       </Link>
       <Link to="#">
@@ -164,7 +164,7 @@ const Slide = () => {
            <ItemTitle>
               <Title>ENJOY 30% OFF SELECTED MUST-HAVE PIECES ON 24S</Title>
            </ItemTitle>
-           <Image src="https://cdna.lystit.com/cms/600x600_HP_TOP_LYST_03befce6d4.png" alt='24S'/>
+           <Image src="https://cdna.lystit.com/cms/600x600_Affiliate_Prada_Holiday_BU_1_1_e41fdd0245.jpg" alt='24S'/>
         </Item>
       </Link>
     </Slider>
@@ -176,77 +176,77 @@ const Slide = () => {
         </Item>
         <Item type="sec" >
              <SecTitle>PATOU</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/My_Post_81_76121ffa01.jpg" alt="Patou"/>
+             <SecImage src="https://cdna.lystit.com/cms/balenciaga_b4eec10d67.jpg" alt="Patou"/>
         </Item>
         <Item type="sec" >
              <SecTitle>GUCCI</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_gucci_eca9e74796.jpg" alt="GUCCI"/>
+             <SecImage src="https://cdna.lystit.com/cms/vivienne_westwood_f7d712c58e.jpg" alt="GUCCI"/>
         </Item>
         <Item type="sec" >
              <SecTitle>SAINT LAURENT</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_saint_laurent_2031eb80f7.jpeg" alt="SAINT LAURENT"/>
+             <SecImage src="https://cdna.lystit.com/cms/hoka_one_one_7c61e26c5a.jpg" alt="SAINT LAURENT"/>
         </Item>
         <Item type="sec" >
              <SecTitle>OFF-WHITE C/O VIRGIL ABLOH</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_off_white_co_virgil_abloh_d8c6b37a9f.jpeg" alt="VIRGIL ABLOH"/>
+             <SecImage src="https://cdna.lystit.com/cms/burberry_6d39746bc8.jpg" alt="VIRGIL ABLOH"/>
         </Item>
         <Item type="sec" >
              <SecTitle>BALENCIAGA</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_balenciaga_215cbc0fe0.jpeg" alt="BALENCIAGA"/>
+             <SecImage src="https://cdna.lystit.com/cms/alexander_mcqueen_baedc5140b.jpg" alt="BALENCIAGA"/>
         </Item>
         <Item type="sec" >
              <SecTitle>NIKE</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_nike_c3045162ba.png" alt="NIKE"/>
+             <SecImage src="https://cdna.lystit.com/cms/golden_goose_59e4b8afbb.jpg" alt="NIKE"/>
         </Item>
         <Item type="sec" >
              <SecTitle>DOLCE & GABBANA</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_dolce_gabbana_bcb7049bb0.jpeg" alt="DOLCE & GABBANA"/>
+             <SecImage src="https://cdna.lystit.com/cms/tory_burch_c2694d7614.jpg" alt="DOLCE & GABBANA"/>
         </Item>
         <Item type="sec" >
              <SecTitle>MONOCLER</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_moncler_bcdcdc131d.jpeg" alt="MONOCLER"/>
+             <SecImage src="https://cdna.lystit.com/cms/marc_jacobs_29e9988630.jpg" alt="MONOCLER"/>
         </Item>
         <Item type="sec" >
              <SecTitle>VALENTINO</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_rail_valentino_421c18fab0.jpeg" alt="VALENTINO"/>
+             <SecImage src="https://cdna.lystit.com/cms/moncler_627804ea66.jpeg" alt="VALENTINO"/>
         </Item>
      </Slider>
      <Slider type="sec-slide">
 
         <Item type="sec" >
-             <SecTitle>BALENCIAGA EARRINGS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/balenciaga_earrings_28c5ac2ab9.jpeg" alt="Balenciaga Earrings"/>
+             <SecTitle>MEN'S FERRAGAMO BELTS</SecTitle>
+             <SecImage src="https://cdna.lystit.com/cms/ferragamo_belt_6f771dc38c.jpg" alt="Balenciaga Earrings"/>
         </Item>
         <Item type="sec" >
-             <SecTitle>SIMONE ROCHA EARRINGS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/simone_rocha_earrings_d997cb6315.jpeg" alt="Simone Rocha Earrings"/>
+             <SecTitle>ALEXANDER MCQUEEN SNEAKERS</SecTitle>
+             <SecImage src="https://cdna.lystit.com/cms/mcqueen_sneakers_8bed6ead41.jpg" alt="Simone Rocha Earrings"/>
         </Item>
         <Item type="sec" style={{backgroundColor:"#f5f4f2", cursor:"e-resize"}}>
            <Para >TRENDING NOW</Para>
         </Item>
         <Item type="sec" >
              <SecTitle>OFF-WHITE C/O VIRGIL ALBOH SANDALS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/mens_off_white_co_virgil_abloh_sandals_5c477cbb4a.jpeg" alt="Alboh Sandals"/>
+             <SecImage src="https://cdna.lystit.com/cms/gucci_scarf_fe36f0efcf.jpg" alt="Alboh Sandals"/>
         </Item>
         <Item type="sec" >
              <SecTitle>AMIRI JEANS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/mens_amiri_jeans_98aeae1fcc.jpeg" alt="Amiri Jeans"/>
+             <SecImage src="https://cdna.lystit.com/cms/canada_goose_jacket_8ef1b21a01.jpg" alt="Amiri Jeans"/>
         </Item>
         <Item type="sec" >
              <SecTitle>FENDI JUMPSUITS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_category_fendi_jumpsuits_9f9ac55f4f.jpeg" alt="Fendi Jumpsuits"/>
+             <SecImage src="https://cdna.lystit.com/cms/mou_boots_b752d8b2d3.jpg" alt="Fendi Jumpsuits"/>
         </Item>
         <Item type="sec" >
              <SecTitle>GUCCI SUITS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/mens_gucci_suits_af6c650ce2.jpeg" alt="Gucci Suits"/>
+             <SecImage src="https://cdna.lystit.com/cms/coach_boots_501890e9f6.jpg" alt="Gucci Suits"/>
         </Item>
 
      </Slider>
      <Slider type="sec-slide" >
         
         <Item type="sec" >
-             <SecTitle>BALENCIAGA T-SHIRTS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_category_mens_balenciaga_t_shirts_2c33757129.jpeg" alt="Balenciaga T-shirts"/>
+             <SecTitle>GUCCI WALLETS AND CARDHOLDERS</SecTitle>
+             <SecImage src="https://cdna.lystit.com/cms/gucci_wallet_efb3e00367.jpg" alt="GUCCI WALLETS AND CARDHOLDERS"/>
         </Item>
         <Item type="sec" style={{backgroundColor:"#f5f4f2", cursor:"e-resize"}}>
            <Para>HOT RIGHT NOW</Para>
@@ -257,19 +257,19 @@ const Slide = () => {
         </Item>
         <Item type="sec" >
              <SecTitle>CAMILLA DRESSES</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_category_camilla_dresses_ed5dbcc2dc.jpeg" alt="Camilla Dresses"/>
+             <SecImage src="https://cdna.lystit.com/cms/mackage_coat_c28797a0bf.jpg" alt="Camilla Dresses"/>
         </Item>
         <Item type="sec" >
              <SecTitle>CHANEL SHOULDER BAGS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_category_chanel_shoulder_bags_969f71f141.jpeg" alt="Chanel Shoulder Bags"/>
+             <SecImage src="https://cdna.lystit.com/cms/gucci_boots_b1ff8d0345.jpg" alt="Chanel Shoulder Bags"/>
         </Item>
         <Item type="sec" >
-             <SecTitle>BALENCIAGA SHOULDER BAGS</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/balenciaga_shoulder_bags_3febdd5725.jpeg" alt="Balenciaga Shoulder Bags"/>
+             <SecTitle>BALENCIAGA BOOTS</SecTitle>
+             <SecImage src="https://cdna.lystit.com/cms/prada_boots_6233e75fa8.jpg" alt="Balenciaga Shoulder Bags"/>
         </Item>
         <Item type="sec" >
-             <SecTitle>GIORGIO ARMANI SUNGLASSES</SecTitle>
-             <SecImage src="https://cdna.lystit.com/cms/designer_category_mens_giorgio_armani_sunglasses_80768d4fe9.jpeg" alt="Giorgio Armani Sunglasses"/>
+             <SecTitle>GIORGIO ARMANI SHIRTS</SecTitle>
+             <SecImage src="https://cdna.lystit.com/cms/burberry_shirt_bfcb721a9f.jpg" alt="Giorgio Armani Sunglasses"/>
         </Item>
 
      </Slider>

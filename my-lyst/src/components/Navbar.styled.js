@@ -130,12 +130,12 @@ export const DropOverlay = styled.div`
 export const DropDown = styled.div`
   position: absolute;
   left: -10rem;
-  top: 1.8rem;
+  top: 1.2rem;
   background-color: #fff;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
     rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   height: fit-content;
-  padding: 2rem;
+  padding: 20px 80px 20px 30px;
   z-index: 2292;
 `;
 
