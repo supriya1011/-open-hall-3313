@@ -139,11 +139,11 @@ const ProductDetail = ({ setItemOverlay }) => {
           ContentProps={{
             sx: {
               background: "#fff",
-              color: "#111",
+              color: "green",
             },
           }}
           open={open}
-          autoHideDuration={4000}
+          autoHideDuration={2000}
           onClose={handleClose}
           message="Added to Cart successfully"
           action={action}

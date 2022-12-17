@@ -1,3 +1,5 @@
+import { green } from "@mui/material/colors";
+import { color } from "@mui/system";
 import styled from "styled-components";
 
 export const ProdHeading = styled.div`

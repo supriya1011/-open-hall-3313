@@ -170,10 +170,10 @@ const Home = () => {
               </List>
            </Offers>
            <SignupBox>
-              <Link to="#">
+              <Link to="/login">
                   <InnerBox>
                       <BoxPara>Sign Up For Smarter Shopping</BoxPara>
-                      <BoxSpan>Join &#8594;</BoxSpan>
+                      <BoxSpan> Join &#8594;</BoxSpan>
                   </InnerBox>
               </Link>
            </SignupBox>
